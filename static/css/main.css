@@ -20,6 +20,7 @@ h2 {
 
 p {
 	font-size: 1.4rem;
+	padding-top: 1.5rem;
 }
 
 .buttons {
@@ -38,10 +39,6 @@ button {
 	margin: 0 10rem;
 	padding: 0.7rem 2rem;
 	margin-bottom: 2rem;
-}
-
-.button-header {
-	padding-top: 1.5rem;
 }
 
 img {
