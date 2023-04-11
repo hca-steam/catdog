@@ -46,5 +46,8 @@ img {
 	margin-left: auto;
 	margin-right: auto;
 	width: 50%;
+	max-width: 500px;
+	max-height: 500px;
 	border-radius: 5px;
+    padding-bottom: 3rem;
 }
