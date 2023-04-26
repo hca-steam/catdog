@@ -43,6 +43,8 @@ def index() -> str:
 # - To make a request, use `requests.get("url", timeout=15)`.
 # - To access the response data, use `response.json()["message"]` for the dog function, and `response.url` for the cat function.
 
+# how to use render template in flask python
+
 
 @views.route("/dog")
 def dog() -> str:
